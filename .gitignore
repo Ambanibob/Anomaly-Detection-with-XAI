@@ -10,3 +10,7 @@ results/*
 !results/output/.gitkeep
 *.pyc
 .DS_Store
+data/raw/**
+artifacts/**
+!data/raw/.gitkeep
+!artifacts/.gitkeep
